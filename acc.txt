@@ -1,0 +1,30 @@
+EPOCH:1,ACC:50.54%
+epoch 1 cost 1673.380718 sec
+EPOCH:2,ACC:63.27%
+epoch 2 cost 2101.868714 sec
+EPOCH:3,ACC:69.39999999999999%
+epoch 3 cost 1375.099478 sec
+EPOCH:4,ACC:73.22%
+epoch 4 cost 1245.355516 sec
+EPOCH:5,ACC:75.03%
+epoch 5 cost 1240.860747 sec
+EPOCH:6,ACC:77.16%
+epoch 6 cost 1249.117434 sec
+EPOCH:7,ACC:77.33%
+epoch 7 cost 1247.140879 sec
+EPOCH:8,ACC:78.05%
+epoch 8 cost 1250.399580 sec
+EPOCH:9,ACC:77.77%
+epoch 9 cost 1266.899165 sec
+EPOCH:10,ACC:77.91%
+epoch 10 cost 1989.061933 sec
+EPOCH:11,ACC:77.98%
+epoch 11 cost 1466.323471 sec
+EPOCH:12,ACC:78.06%
+epoch 12 cost 1322.210770 sec
+EPOCH:13,ACC:78.57%
+epoch 13 cost 1510.104689 sec
+EPOCH:14,ACC:78.66%
+epoch 14 cost 1376.239459 sec
+EPOCH:15,ACC:78.95%
+epoch 15 cost 1366.507228 sec
